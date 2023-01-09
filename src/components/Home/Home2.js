@@ -31,25 +31,25 @@ function Home2() {
               <br />
               My field of interests are learning about &nbsp;
               <i>
-                <b className="purple">blockchains, web3 applications </b> and
+                <b className="purple">computer science, philosophy </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Virtual Reality and Artificial Intelligence.
+                  cyber security and open source intelligence.
                 </b>
               </i>
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              with <b className="purple"></b> and
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  artificial intelligence, blockchain, and virtual reality.
                 </b>
               </i>
-              &nbsp; like
+              &nbsp; 
               <i>
-                <b className="purple"> Tailwind CSS, React.js, and Next.js</b>
+                <b className="purple"></b>
               </i>
             </p>
           </Col>
